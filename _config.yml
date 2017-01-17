@@ -7,9 +7,9 @@ name:               "Yuheng Zhan"
 
 author:
   name:             Yuheng Zhan
-  facebook:         https://www.facebook.com/Zhan.Yuheng
+  facebook:         Zhan.Yuheng
   github:           aaaahern
-  linkedin:         Yuheng Zhan
+  linkedin:         yuhengzhan
   email:            ahern.here@gmail.com
 
 # Google-analytics
@@ -18,10 +18,10 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "your-id"
+  id:               "yuhengzhan"
 
 # URL
-#url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+#url:                "https://aaaahern.github.io" # the base hostname & protocol for your site
 url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
