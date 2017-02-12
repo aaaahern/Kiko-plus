@@ -22,7 +22,7 @@ disqus:
   id:               "yuhengzhan"
 
 # URL
-url:                "https://aaaahern.github.io" # the base hostname & protocol for your site
+url:                "https://yuhengzhan.com" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
